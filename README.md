@@ -1,11 +1,13 @@
 What I've Built
-I enjoy creating interactive dashboards and visualizations that help teams make data-driven decisions. Here's my recent work:
+
+An interactive dashboard with visualizations that help teams make data-driven decisions.
 
 🎯 HR Analytics Dashboard
 
 [View Live Dashboard](https://public.tableau.com/app/profile/jordan.chong6517/viz/HRDashboard_17537593566700/HRSummary?publish=yes)
 
 An interactive HR dashboard that transforms workforce data into actionable insights. Built with clean design principles and user experience in mind.
+
 Key Features:
 
 Interactive filtering and exploration capabilities
