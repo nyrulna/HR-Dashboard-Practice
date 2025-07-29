@@ -18,9 +18,13 @@ User-friendly interface for stakeholders at all levels
 🛠️ Technical Experience
 
 Data Integration: Connecting and importing from Excel, CSV, and database sources
+
 Data Preparation: Cleaning, transforming, and structuring data for analysis
+
 Visualization Design: Creating clear, effective charts and interactive elements
+
 Dashboard Development: Building comprehensive, intuitive dashboards
+
 Publishing: Deploying visualizations to Tableau Public for sharing
 
 📈 Visualization Areas
