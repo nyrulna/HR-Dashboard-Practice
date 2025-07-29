@@ -1,8 +1,4 @@
-What I've Built
-
-An interactive dashboard with visualizations that help teams make data-driven decisions.
-
-🎯 HR Analytics Dashboard
+🎯 HR Analytics Dashboard - An interactive dashboard with visualizations that help teams make data-driven decisions.
 
 [View Live Dashboard](https://public.tableau.com/app/profile/jordan.chong6517/viz/HRDashboard_17537593566700/HRSummary?publish=yes)
 
